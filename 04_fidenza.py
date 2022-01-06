@@ -1,6 +1,6 @@
 # Genuary 2022, Jan 4
-# Task: Fidenza.
-# Having trouble with fidenza free flow algo so improvising
+# Task: The next next Fidenza.
+# Idea: Having trouble with fidenza free flow algo so improvising
 # There is a town in Italy called Fidenza so:
 #  - Find the city roads for Fidenza here: https://anvaka.github.io/city-roads/?q=fidenza&areaId=3600043602
 #  - Download the svg, then warp the svg twice using: https://pavellaptev.github.io/warp-svg/
